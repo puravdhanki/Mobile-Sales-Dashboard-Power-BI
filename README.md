@@ -73,7 +73,7 @@ Through this project, I gained hands-on experience in:
 
 ## 📸 Dashboard Preview  
 
-![Dashboard Preview](Screenshots/dashboard.png)
+![Dashboard Preview](Screenshot/Dashboard.png)
 
 ---
 
