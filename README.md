@@ -1,98 +1,90 @@
-📱 Mobile Sales Dashboard – Power BI Project
-📌 Project Overview
+# 📱 Mobile Sales Dashboard – Power BI Project
 
-This project is an interactive Mobile Sales Data Dashboard developed using Microsoft Power BI.
+## 📌 Project Overview  
+
+This project is an interactive **Mobile Sales Data Dashboard** developed using **Microsoft Power BI**.  
 The dashboard provides meaningful insights into mobile sales performance across brands, cities, payment methods, and customer ratings.
 
-It was created as part of my learning journey with Skill Course, guided by Satish Dhawale sir.
+It was created as part of my learning journey with **Skill Course**, guided by **Satish Dhawale sir**.
 
 The objective of this project is to transform raw sales data into actionable business insights through effective data visualization.
 
-🎯 Key Features
+---
 
-📊 KPI Cards (Total Sales, Transactions, Total Quantity, Average Sales)
+## 🎯 Key Features  
 
-📱 Brand-wise & Mobile Model analysis
+- 📊 KPI Cards (Total Sales, Transactions, Total Quantity, Average Sales)  
+- 📱 Brand-wise & Mobile Model analysis  
+- 🗺 City-wise Sales Visualization (Map)  
+- 💳 Payment Method Distribution  
+- ⭐ Customer Ratings Funnel  
+- 📈 Daily & Weekly Sales Trends  
+- 🎛 Interactive slicers for Month, Brand, City, Mobile Model & Payment Method  
 
-🗺 City-wise Sales Visualization (Map)
+---
 
-💳 Payment Method Distribution
+## 🛠 Tools & Technologies  
 
-⭐ Customer Ratings Funnel
+- Microsoft Power BI  
+- Power Query  
+- DAX (Basic Measures)  
+- Excel (Dataset)  
 
-📈 Daily & Weekly Sales Trends
+---
 
-🎛 Interactive slicers for Month, Brand, City, Mobile Model & Payment Method
-
-🛠 Tools & Technologies
-
-Microsoft Power BI
-
-Power Query
-
-DAX (Basic Measures)
-
-Excel (Dataset)
-
-📂 Dataset
+## 📂 Dataset  
 
 The dataset contains information related to:
 
-Brand
+- Brand  
+- Mobile Model  
+- City  
+- Payment Method  
+- Customer Ratings  
+- Units Sold  
+- Total Sales  
+- Transactions  
 
-Mobile Model
+*(Dataset used for educational purposes)*
 
-City
+---
 
-Payment Method
-
-Customer Ratings
-
-Units Sold
-
-Total Sales
-
-Transactions
-
-(Dataset used for educational purposes)
-
-🧠 Learning Outcomes
+## 🧠 Learning Outcomes  
 
 Through this project, I gained hands-on experience in:
 
-Data Cleaning & Transformation
+- Data Cleaning & Transformation  
+- Data Modeling  
+- Creating Measures using DAX  
+- Designing Interactive Dashboards  
+- Business Insight Generation  
+- Visual Storytelling  
 
-Data Modeling
+---
 
-Creating Measures using DAX
+## 🚀 Dashboard Highlights  
 
-Designing Interactive Dashboards
+- Apple identified as Top Performing Brand  
+- Vadodara emerged as Top Sales City  
+- Saturday recorded highest sales  
+- UPI is the most preferred payment method  
 
-Business Insight Generation
+---
 
-Visual Storytelling
+## 📸 Dashboard Preview  
 
-🚀 Dashboard Highlights
+![Dashboard Preview](Screenshots/dashboard.png)
 
-Apple identified as Top Performing Brand
+---
 
-Vadodara emerged as Top Sales City
+## 📬 Connect With Me  
 
-Saturday recorded highest sales
+LinkedIn: [APurav Dhanki](https://www.linkedin.com/in/purav-dhanki/)
+GitHub: [Purav Dhanki](https://github.com/puravdhanki)
 
-UPI is the most preferred payment method
-
-📸 Dashboard Preview
-
-![Dashboard Preview](Mobile Sales Dashboard/Screenshot/Mobile sales Dashboard.png)
-
-
-📬 Connect With Me
-
-LinkedIn: [(Add your LinkedIn link)](https://www.linkedin.com/in/purav-dhanki/)
-GitHub: [(Add your GitHub profile link)](https://github.com/puravdhanki)
-
-I’m actively seeking opportunities in Data Analytics / Business Intelligence roles.
+I’m actively seeking opportunities in **Data Analytics / Business Intelligence** roles.  
 Open to feedback and collaborations!
 
-✨ Thank you for visiting this repository!
+---
+
+✨ *Thank you for visiting this repository!*  
